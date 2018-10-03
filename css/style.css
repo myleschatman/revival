@@ -1,8 +1,11 @@
 /*nav icon animation*/
 body{
-  background-color: #aaab9b;
+  border: 2px solid red;
+  background-color: #eee6d9;
+  font: 15px/1.5 Arial, Helvetica, sans-serif;
   color: white;
 }
+
 #nav-icon{
   width: 45px;
   height: 30px;
