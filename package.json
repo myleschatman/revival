@@ -1,8 +1,8 @@
 {
   "name": "revivaldpt",
   "version": "1.0.0",
-  "description": "",
-  "main": "gulpfile.js",
+  "description": "Photon by HTML5 UP\r html5up.net | @ajlkn\r Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,12 +16,8 @@
     "url": "https://github.com/myleschatman/revivaldpt/issues"
   },
   "homepage": "https://github.com/myleschatman/revivaldpt#readme",
-  "dependencies": {
-    "bootstrap": "^4.1.3",
-    "jquery": "^3.3.1"
-  },
   "devDependencies": {
-    "browser-sync": "^2.24.7",
-    "gulp": "^3.9.1"
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0"
   }
 }
